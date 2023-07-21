@@ -1,0 +1,19 @@
+Kursöversikt
+
+IT Tech and Operations, 15 yhp
+Innehåll
+De studerande får lära sig grunderna inom IT och systemutveckling, de vanligaste teknikerna och yrkesroller i de större teknikstackarna med extra fördjupning inom Pythons tillämpning och funktion inom IT-system och utvecklingsprojekt. Kursen går också igenom hur branschen ser ut och sätter sig in i de termer och den arbetsmetodik som används inom IT- branschen. De studerande blir även introducerade till den kommande yrkesrollen och deras vanligaste funktioner inom IT.
+
+Mål
+Den studerande skall efter genomförd kurs med godkänt resultat kunna:
+
+Kunskaper
+om yrkesrollen DevOps funktion inom systemutvecklingsprojekt och i linjeorganisationer.
+om DevOps-rollens syfte och mål i projekt och organisationer, inklusive affärsperspektivet / entreprenörskap
+om yrkesrollen DevOps funktion inom systemutvecklingsprojekt och i linjeorganisationer.
+om de vanligaste rollerna inom IT-branschen och vart roller i olika fall opererar i teknikstackarna.
+om de mest använda teknikstackarna inom systemutveckling.
+om hur ett modernt IT-system är uppbyggt inom de större teknikstackarna och större skillnader av användningsområden för olika teknikval.
+om CD/CI samt dess anknytning till modern agil systemutveckling och DevOps roll i det avseendet.
+om hur Python används inom agil systemutveckling och automatiserade flöden.
+om hur Python kan hjälpa inom scriptprogrammering, automatiserade DevOpsflöden, systemautomation, automatiserade testning och webbserverscriptning.
